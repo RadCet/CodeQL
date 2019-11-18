@@ -8,7 +8,7 @@
  - Recommend using starter workspace from CodeQL by clone https://github.com/github/vscode-codeql-starter/ 
  - You can create ur own workspace by adding CodeQL libraries and queries to existing workspace
 ## Create database
- - Get in your root source folder
+ - Get in your root folder of ur project
  - Cmd: ```codeql database create <database-folder> --language=<cpp/python/go/java..>```
 ## First query
  - Add database by using command palette > CodeQL:Choose Database or using UI in CodeQL tab in sidebar
