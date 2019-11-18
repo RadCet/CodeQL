@@ -75,7 +75,6 @@ select fc, "malloc call"
 ## Data flow
  - Analyze data flow in your project
  - Below example will find which paramter in functions will be used in fopen
- - Maybe we can use this to find where main process function get input then fuzzing that entry
 ```
 // import library
 import cpp
