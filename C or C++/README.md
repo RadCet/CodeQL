@@ -7,7 +7,7 @@ from /* ... variable declarations ... */
 where /* ... logical formulas ... */
 select /* ... expressions ... */
 ```
-## Basic class
+## Some basic classes
  - Function: just function
  - FunctionCall: where function is called
  - Variable: just variables
